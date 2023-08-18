@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "Bello Esther Motunrayo",
+      "email": "motun@test.com",
+      "password": "motun@123",
+      "id": 1
+    },
+    {
+      "name": "Bamgbose Motunrayo",
+      "email": "motun@rayo.com",
+      "password": "motun@123",
+      "id": 2
+    }
+  ],
+  "restuarant": [
+    {
+      "name": "Burger King",
+      "address": "Ijebu-Ode",
+      "contact": "3924",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "contact": 234457865,
+      "address": "Ilese"
+    },
+    {
+      "id": 3,
+      "name": "Chicken-pie",
+      "contact": 456789766,
+      "address": "Ijebu-Ode"
+    },
+    {
+      "name": "small chops",
+      "address": "Lagos,Nigeria",
+      "contact": 3456768,
+      "id": 4
+    },
+    {
+      "name": "Doughnut",
+      "address": "Ibadan",
+      "contact": "34567890",
+      "id": 5
+    }
+  ]
+}
